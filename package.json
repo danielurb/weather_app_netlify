@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/danielurb/weather_app_netlify#readme",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
